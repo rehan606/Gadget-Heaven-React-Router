@@ -1,0 +1,359 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop X1 Pro",
+        "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India-1200x675.jpg",
+        "category": "Laptop",
+        "price": 38999,
+        "description": "High-performance laptop with robust design and fast processing.",
+        "Specification": [
+            "16-inch Display",
+            "1TB SSD",
+            "16GB RAM",
+            "Intel Core i9 Processor",
+            "NVIDIA RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "id": 2,
+        "title": "Smartphone A20",
+        "image": "https://t3.ftcdn.net/jpg/09/37/87/86/360_F_937878692_v7L7LvjH3S7WjzQEFHv0NWLTCJJDBTtd.jpg",
+        "category": "Phone",
+        "price": 25099,
+        "description": "Affordable smartphone with a great camera and solid battery life.",
+        "Specification": [
+            "6.1-inch LCD Display",
+            "128GB Storage",
+            "Dual Rear Cameras",
+            "4000mAh Battery",
+            "4G LTE"
+        ],
+        "availability": true,
+        "rating": 4.3
+    },
+    {
+        "id": 3,
+        "title": "Wireless Earbuds Pro",
+        "image": "https://diamu.com.bd/wp-content/uploads/2022/12/SoundPeats-Air3-Deluxe-HS-True-Wireless-Earbuds-2.jpg",
+        "category": "Accessories",
+        "price": 2100,
+        "description": "Noise-canceling wireless earbuds with rich sound quality.",
+        "Specification": [
+            "Bluetooth 5.1",
+            "Active Noise Cancellation",
+            "30-Hour Battery Life",
+            "Water-Resistant",
+            "Touch Controls"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "id": 4,
+        "title": "Smart Watch Series 6",
+        "image": "https://rukminim2.flixcart.com/image/850/1000/xif0q/smartwatch/n/p/5/46-nfw700224-android-ios-nervfit-no-original-imahyhphwt2h3c9f.jpeg?q=20&crop=false",
+        "category": "Smart Watch",
+        "price": 1400,
+        "description": "Smartwatch with health tracking and enhanced battery life.",
+        "Specification": [
+            "1.6-inch Retina Display",
+            "Heart Rate Monitor",
+            "GPS Tracking",
+            "18-Hour Battery",
+            "Water-Resistant"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "id": 5,
+        "title": " Headphone",
+        "image": "https://img.freepik.com/free-photo/shiny-black-headphones-reflect-golden-nightclub-lights-generated-by-ai_188544-10148.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1727913600&semt=ais_hybrid",
+        "category": "Accessories",
+        "price": 1750,
+        "description": "Wireless charger dock for fast and convenient charging.",
+        "Specification": [
+            "Fast Charging",
+            "Supports Multiple Devices",
+            "LED Indicator",
+            "Compact Design",
+            "Universal Compatibility"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "id": 6,
+        "title": "iPhone 13 Pro",
+        "image": "https://www.digitaltrends.com/wp-content/uploads/2021/09/iphone-13-pro-review-dan-baker-35.jpg?p=1",
+        "category": "iPhone",
+        "price": 90500,
+        "description": "Apple's latest smartphone with top-notch performance and camera quality.",
+        "Specification": [
+            "6.1-inch Super Retina XDR Display",
+            "256GB Storage",
+            "Triple Rear Cameras",
+            "5G Connectivity",
+            "Ceramic Shield"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "id": 7,
+        "title": "ASUS ZenBook Pro Duo",
+        "image": "https://i.ytimg.com/vi/1aqI7EnfbVM/maxresdefault.jpg",
+        "category": "Laptop",
+        "price": 45990,
+        "description": "High-performance laptop with robust design and fast processing.",
+        "Specification": [
+            "16-inch Display",
+            "1TB SSD",
+            "16GB RAM",
+            "Intel Core i9 Processor",
+            "NVIDIA RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "id": 8,
+        "title": "Smartphone XZ Max",
+        "image": "https://img.freepik.com/premium-psd/phone-mockup_68185-402.jpg",
+        "category": "Phone",
+        "price": 69900,
+        "description": "Advanced smartphone with a sleek design and powerful camera.",
+        "Specification": [
+            "6.7-inch AMOLED Display",
+            "256GB Storage",
+            "Quad Rear Cameras",
+            "4500mAh Battery",
+            "5G Connectivity"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "id": 9,
+        "title": "Wireless Charger Dock",
+        "image": "https://i.ebayimg.com/images/g/02kAAOSwJXBmCJhz/s-l1200.jpg",
+        "category": "Accessories",
+        "price": 870,
+        "description": "Wireless charger dock for fast and convenient charging.",
+        "Specification": [
+            "Fast Charging",
+            "Supports Multiple Devices",
+            "LED Indicator",
+            "Compact Design",
+            "Universal Compatibility"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "id": 10,
+        "title": "Smart Watch GT",
+        "image": "https://img.freepik.com/premium-photo/smart-watch-with-green-light-face_1309173-77715.jpg",
+        "category": "Smart Watch",
+        "price": 1620,
+        "description": "Premium smartwatch with extensive fitness and health tracking features.",
+        "Specification": [
+            "1.8-inch AMOLED Display",
+            "Heart Rate & Sleep Monitor",
+            "GPS & Altimeter",
+            "2-Day Battery Life",
+            "Water-Resistant"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "id": 11,
+        "title": "Laptop UltraBook",
+        "image": "https://static.ffx.io/images/$zoom_0.53%2C$multiply_0.5855%2C$ratio_1.776846%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Ce_sharpen:60%2Cf_auto/4fb086a57dda6add5110655562bad05a179a8d32",
+        "category": "Laptop",
+        "price": 56900,
+        "description": "Slim and portable laptop with excellent battery life and power.",
+        "Specification": [
+            "14-inch HD Display",
+            "512GB SSD",
+            "8GB RAM",
+            "Intel Core i5 Processor",
+            "Lightweight Design"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "id": 12,
+        "title": "MacBook Pro M1",
+        "image": "https://i.ytimg.com/vi/XU1X7Sd-5kU/maxresdefault.jpg",
+        "category": "MacBook",
+        "price": 115700,
+        "description": "Powerful MacBook with Apple's M1 chip for professionals.",
+        "Specification": [
+            "13-inch Retina Display",
+            "512GB SSD",
+            "16GB RAM",
+            "Apple M1 Chip",
+            "Touch Bar & Touch ID"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "id": 13,
+        "title": "iPhone 12 Mini",
+        "image": "https://images.macrumors.com/article-new/2023/09/iPhone-15-General-Feature-Black.jpg",
+        "category": "iPhone",
+        "price": 110000,
+        "description": "Compact iPhone with powerful features and an edge-to-edge display.",
+        "Specification": [
+            "5.4-inch Super Retina XDR Display",
+            "64GB Storage",
+            "Dual Rear Cameras",
+            "5G Connectivity",
+            "Water-Resistant"
+        ],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "id": 14,
+        "title": "Laptop Hp G250",
+        "image": "https://cdn.mos.cms.futurecdn.net/pyL3b8cis5dcmUvgbe9ygV.jpg",
+        "category": "Laptop",
+        "price": 67300,
+        "description": "High-performance laptop with robust design and fast processing.",
+        "Specification": [
+            "16-inch Display",
+            "1TB SSD",
+            "16GB RAM",
+            "Intel Core i9 Processor",
+            "NVIDIA RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "id": 15,
+        "title": "Laptop Dell",
+        "image": "https://cdn.mos.cms.futurecdn.net/k2YfoeBbRzoqYHCgrekRvJ-1200-80.jpg",
+        "category": "Laptop",
+        "price": 34990,
+        "description": "High-performance laptop with robust design and fast processing.",
+        "Specification": [
+            "16-inch Display",
+            "1TB SSD",
+            "16GB RAM",
+            "Intel Core i9 Processor",
+            "NVIDIA RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "id": 16,
+        "title": "ASUS ZenBook Pro Thin",
+        "image": "https://www.asus.com/media/odin/websites/global/News/ndh7u5xulrnvakea/ASUS%20Zenbook%20Pro%2014%20Duo%20OLED%20Wins%20IDEA%20Recognition%20for%20Innovative%20Design.png",
+        "category": "Laptop",
+        "price": 45990,
+        "description": "High-performance laptop with robust design and fast processing.",
+        "Specification": [
+            "16-inch Display",
+            "1TB SSD",
+            "16GB RAM",
+            "Intel Core i9 Processor",
+            "NVIDIA RTX 3060"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "id": 17,
+        "title": "Galaxy x-cover",
+        "image": "https://www.hwupgrade.it/immagini/galaxyxcover6pro_002.jpg",
+        "category": "Phone",
+        "price": 79699,
+        "description": "Advanced smartphone with a sleek design and powerful camera.",
+        "Specification": [
+            "6.7-inch AMOLED Display",
+            "256GB Storage",
+            "Quad Rear Cameras",
+            "4500mAh Battery",
+            "5G Connectivity"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "id": 18,
+        "title": "MacBook Air M2",
+        "image": "https://fs.npstatic.com/userfiles/7695213/image/macbook-air-m3/MacBook-Air-nextpit-Test-2.jpg",
+        "category": "MacBook",
+        "price": 88500,
+        "description": "Lightweight laptop with Apple's M2 chip, perfect for everyday tasks.",
+        "Specification": [
+            "13.3-inch Retina Display",
+            "256GB SSD",
+            "8GB RAM",
+            "Apple M2 Chip",
+            "Backlit Keyboard"
+        ],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "id": 19,
+        "title": "The best smartwatch",
+        "image": "https://cdn.mos.cms.futurecdn.net/FkGweMeB7hdPgaSFQdgsfj.jpg",
+        "category": "Smart Watch",
+        "price": 2329,
+        "description": "Premium smartwatch with extensive fitness and health tracking features.",
+        "Specification": [
+            "1.8-inch AMOLED Display",
+            "Heart Rate & Sleep Monitor",
+            "GPS & Altimeter",
+            "2-Day Battery Life",
+            "Water-Resistant"
+        ],
+        "availability": false,
+        "rating": 4.5
+    },
+    {
+        "id": 20,
+        "title": "Apple iPhone 16",
+        "image": "https://media.wired.com/photos/66df337dfb7d4953b6dc5f31/master/w_2560%2Cc_limit/Screenshot%25202024-09-09%2520at%252010.42.09%25E2%2580%25AFAM.png",
+        "category": "iPhone ",
+        "price": 140699,
+        "description": "Compact iPhone with powerful features and an edge-to-edge display.",
+        "Specification": [
+            "5.4-inch Super Retina XDR Display",
+            "64GB Storage",
+            "Dual Rear Cameras",
+            "5G Connectivity",
+            "Water-Resistant"
+        ],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "id": 21,
+        "title": "The Best MacBooks",
+        "image": "https://assets-prd.ignimgs.com/2023/05/02/best-macbooks-to-buy-2-1683051709961.jpg",
+        "category": "MacBook ",
+        "price": 140000,
+        "description": "Powerful MacBook with Apple's M1 chip for professionals.",
+        "Specification": [
+            "13-inch Retina Display",
+            "512GB SSD",
+            "16GB RAM",
+            "Apple M1 Chip",
+            "Touch Bar & Touch ID"
+        ],
+        "availability": true,
+        "rating": 4.9
+    }
+]
